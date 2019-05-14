@@ -1,0 +1,13 @@
+{
+  "name": "rc-alert",
+  "version": "1.1.0",
+  "description": "message alert",
+  "main": "index.js",
+  "keywords": [
+    "message",
+	"alert",
+	"rc-alert"
+  ],
+  "author": "justcool",
+  "license": "ISC"
+}
