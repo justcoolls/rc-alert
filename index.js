@@ -88,7 +88,7 @@ function node(content) {
     return result;
 }
 
-const rcAlertqwe = {
+const rcAlert = {
     info: function info(content, duration, onClose) {
         return node(content, duration, 'info', onClose);
     },
@@ -105,4 +105,4 @@ const rcAlertqwe = {
         return node(content, duration, 'warning', onClose);
     },
 };
-export default rcAlertqwe;
+export default rcAlert;
